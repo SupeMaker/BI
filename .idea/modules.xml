@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cls_BI.iml" filepath="$PROJECT_DIR$/Cls_BI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bi_bakend/bi.iml" filepath="$PROJECT_DIR$/bi_bakend/bi.iml" />
+    </modules>
+  </component>
+</project>
